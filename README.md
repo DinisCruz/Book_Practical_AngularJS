@@ -1,13 +1,35 @@
 Book Practical AngularJS
 ========================
 
-This is the source repository for the 'Practical AngularJS' book published at LeanPub: 
+This is the source repository for the [Practical AngularJS](https://leanpub.com/Practical_AngularJS) book published at LeanPub
 
-#Book structure
+The book is still under development, so if you spot any issues or have recommendations please [fork this repository](https://github.com/DinisCruz/Book_Practical_AngularJS/fork) and submit a [Pull Request](https://github.com/DinisCruz/Book_Practical_AngularJS/pulls) :)
 
+## Book Sections
 
 * [Introduction](/manuscript/C0_Introduction-.md)
-* Chapter 1 - [Using KarmaJS](/manuscript/C2_KarmaJS-.md)
-* Chapter 2 - [Using Firebase](/manuscript/C3_Firebase-.md)
+* [Using KarmaJS](/manuscript/C2_KarmaJS-.md)
+* [Using Firebase](/manuscript/C3_Firebase-.md)
+* [Misc Tricks](/manuscript/C4_Misc_Tricks-.md)
+* [IDEs](/manuscript/C5_IDEs-.md)
+* [Troubleshooting](/manuscript/C6_Troubleshooting-.md)
+* [Appendices](/manuscript/C7_Appendices-.md)
 
 See [Table of Contents](/manuscript/C0_Introduction-Table_of_contents.md) for the full list of chapters
+
+## Code samples and snippets
+
+All code samples and snippets are in the [Code](code) section
+
+## Issues and Discussion group
+
+If you have questions please create a new [Issue here at gitHub](https://github.com/DinisCruz/Book_Practical_AngularJS/issues) or use the [Leanpub Discussion page for this book](https://leanpub.com/Practical_AngularJS/feedback)
+
+## Buy eBook 
+
+If you can, please buy the book since it will help with production, design, editing and layout costs.
+
+Leanpub provide a nice shooping card solution which allows you to chose which price to pay: [Buy Practical AngularJS book](https://leanpub.com/Practical_AngularJS/packages/book/purchases/new)
+
+[![](manuscript/images/Buy_Practical_AngularJS.png)](https://leanpub.com/Practical_AngularJS/packages/book/purchases/new)
+
