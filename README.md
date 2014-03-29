@@ -15,7 +15,7 @@ The book is still under development, so if you spot any issues or have recommend
 * [Troubleshooting](/manuscript/C6_Troubleshooting-.md)
 * [Appendices](/manuscript/C7_Appendices-.md)
 
-See [Table of Contents](/manuscript/C0_Introduction-Table_of_contents.md) for the full list of chapters
+See [Table of Contents](/Table_of_contents.md) for the full list of chapters
 
 ## Code samples and snippets
 
