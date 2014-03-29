@@ -1,4 +1,4 @@
-# Code samples for [Practical AngularJS book](https://leanpub.com/Practical_AngularJS)
+## Code samples for [Practical AngularJS book](https://leanpub.com/Practical_AngularJS)
 
 **Eclipse projects**
 
