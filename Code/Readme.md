@@ -1,5 +1,7 @@
 # Code samples for [Practical AngularJS book](https://leanpub.com/Practical_AngularJS)
 
+**Eclipse projects**
+
 * Simple AngularJS structure (todo)
 
 **Code Snippets**
