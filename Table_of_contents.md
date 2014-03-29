@@ -2,13 +2,13 @@
 
 This is the current table of contents of the book. If you have any ideas or sugestions on a better structure, please share your views.
 
-** [Introduction](/manuscript/C0_Introduction-.md) ** 
+**[Introduction](/manuscript/C0_Introduction-.md)** 
 
 * [ChangeLog](/manuscript/C0_Introduction-ChangeLog.md)
 * [Table of Contents](/manuscript/C0_Introduction-Table_of_contents.md)
 
 
-**  [Chapter 1 - Using AngularJS](/manuscript/C1_Using_AngularJS-.md)** 
+**[Chapter 1 - Using AngularJS](/manuscript/C1_Using_AngularJS-.md)** 
 
 * [A really SIMPLE and clean AngularJS+Firebase example](/manuscript/C1_Using_AngularJS-A_Really_Simple_and_Clean_angularJS_Firebase_Example.md)
 * [Using AngularJS in Eclipse, Part 1) The Basics](/manuscript/C1_Using_AngularJS-usingangularjsineclipsepart1thebasics.md)
@@ -17,7 +17,7 @@ This is the current table of contents of the book. If you have any ideas or suge
 * [Using AngularJS in Eclipse, Part 4) Create Components](/manuscript/C1_Using_AngularJS-usingangularjsineclipsepart4createcomponents.md)
 * [AngularJS code editor using UI-Bootstrap and CodeMirror (done without using jQuery)](/manuscript/C1_Using_AngularJS-angularjscodeeditorusinguibootstrapandcodemirrordonewithoutusingjquery.md)
 
-** [Chapter 2 - Using KarmaJS](/manuscript/2_KarmaJS-.md) ** 
+**[Chapter 2 - Using KarmaJS](/manuscript/2_KarmaJS-.md)** 
 
 * [A small AngularJS Jasmine test executed by KarmaJS](/manuscript/C2_KarmaJS-asmallangularjsjasminetestexecutedbykarmajs.md)
 * [Creating an Eclipse UI to run AngularJS e2e tests using Karma](/manuscript/C2_KarmaJS-creatinganeclipseuitorunangularjse2etestsusingkarma.md)
