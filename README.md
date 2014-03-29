@@ -6,14 +6,14 @@ This is the source repository for the 'Practical AngularJS' book published at Le
 #Book structure
 
 
-[Introduction](C0_Introduction-.md)
+##[Introduction](/manuscript/C0_Introduction-.md)
 
-[ChangeLog](C0_Introduction-ChangeLog.md)
-[Table of Contents]C0_Introduction-Table_of_contents.md
+[ChangeLog](/manuscript/C0_Introduction-ChangeLog.md)
+[Table of Contents](/manuscript/C0_Introduction-Table_of_contents.md)
 
-{mainmatter}
 
-C1_Using_AngularJS-.md
+
+##[Chapter 1 - Using AngularJS](/manuscript/C1_Using_AngularJS-.md)
 
 C1_Using_AngularJS-A_Really_Simple_and_Clean_angularJS_Firebase_Example.md
 C1_Using_AngularJS-usingangularjsineclipsepart1thebasics.md
