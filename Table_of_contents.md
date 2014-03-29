@@ -48,7 +48,7 @@ This is the current table of contents of the book. If you have any ideas or suge
 * [Debugging a weird case of missing module in AngularJS and KarmaJS](/manuscript/C6_Troubleshooting-debuggingaweirdcaseofmissingmoduleinangularjsandkarmajs.md)
 
 
-**[Appendices](C7_Appendices.md)** 
+**[Appendices](/manuscript/C7_Appendices-.md)** 
 
 * [Appendix Post's Details](/manuscript/C7_Appendices-Appendix_PostsDetails.md)
 
