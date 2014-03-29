@@ -6,56 +6,8 @@ This is the source repository for the 'Practical AngularJS' book published at Le
 #Book structure
 
 
-##[Introduction](/manuscript/C0_Introduction-.md)
+* [Introduction](/manuscript/C0_Introduction-.md)
+* Chapter 1 - [Using KarmaJS](/manuscript/C2_KarmaJS-.md)
+* Chapter 2 - [Using Firebase](/manuscript/C3_Firebase-.md)
 
-[ChangeLog](/manuscript/C0_Introduction-ChangeLog.md)
-[Table of Contents](/manuscript/C0_Introduction-Table_of_contents.md)
-
-
-
-##[Chapter 1 - Using AngularJS](/manuscript/C1_Using_AngularJS-.md)
-
-C1_Using_AngularJS-A_Really_Simple_and_Clean_angularJS_Firebase_Example.md
-C1_Using_AngularJS-usingangularjsineclipsepart1thebasics.md
-C1_Using_AngularJS-usingangularjsineclipsepart2addsomecontrol.md
-C1_Using_AngularJS-usingangularjsineclipsepart3wireupabackend.md
-C1_Using_AngularJS-usingangularjsineclipsepart4createcomponents.md
-C1_Using_AngularJS-angularjscodeeditorusinguibootstrapandcodemirrordonewithoutusingjquery.md
-
-C2_KarmaJS-.md
-
-C2_KarmaJS-asmallangularjsjasminetestexecutedbykarmajs.md
-C2_KarmaJS-creatinganeclipseuitorunangularjse2etestsusingkarma.md
-C2_KarmaJS-runningkarmajssangularjsexampleteste2eangularscenarioonchrome.md
-
-C3_Firebase-.md
-
-C3_Firebase-firstpocofsendingteammentorsserversiderequesturlstofirebaseandseeingitinrealtimeinanangularjspage.md
-C3_Firebase-tryingoutfirebasebetahostingsolutionandgoodexampleoffirebasesecurityrules.md
-
-C4_Misc_Tricks-.md
-
-C4_Misc_Tricks-programaticallychanginganangularjsscopevariableandaddingfirebuglitetoanangularjsapp.md
-C4_Misc_Tricks-hubspotcurrentjscodeincludesjqueryonit.md
-C4_Misc_Tricks-submittingtmuserstohubspotviatbotinterfaceusingangularjs.md
-
-C5_IDEs-.md
-
-C5_IDEs-eclipsegroovyreplscripttosyncabrowserwithfilechangeswithrecursivefoldersearchviajavaswatchservice.md
-C5_IDEs-eclipsegroovyscripttoremovethebusyimagefromthewebbrowsereditor.md
-C5_IDEs-usingchromeinsideanativevisualstudiopaneusingwindowhandlehijacking.md
-C5_IDEs-usingwebstormwithchromeandchromedrivertoviewkarmajsexecutionresults.md
-C5_IDEs-whenthebestwaytoautomatechromeistousechromewithexamplesongooglesearchdirectangularjsscopemanipulationandchromedriverjavascriptaccess.md
-C5_IDEs-addingkarmajssupporttowebstormtoautomagicallyruntestsonfilechangesandtestuiwithsublimetextchromeandcmdexe.md
-
-C6_Troubleshooting-.md
-
-C6_Troubleshooting-karmajsangularjsscenariotestrunnerexecutionvariationsinie789and10whenusingangularjs.md
-C6_Troubleshooting-ifangularjsdoesntworkonyouro2platformiescriptsthefixistochangebrowsercompatibilitymode.md
-C6_Troubleshooting-debuggingaweirdcaseofmissingmoduleinangularjsandkarmajs.md
-
-
-{backmatter}
-
-C7_Appendices.md
-C7_Appendices-Appendix_PostsDetails.md
+See [Table of Contents](/manuscript/C0_Introduction-Table_of_contents.md) for the full list of chapters
