@@ -1,4 +1,58 @@
-Book_Practical_AngularJS
+Book Practical AngularJS
 ========================
 
-Content for 'Practical AngularJS' book published at LeanPub
+This is the source repository for the 'Practical AngularJS' book published at LeanPub: 
+
+#Book structure
+
+[Introduction](manuscript/c0.Introduction.md)
+[ChangeLog](c0.ChangeLog.md
+
+{mainmatter}
+
+C1..Chapter_Using_AngularJS.md
+
+c1.areallysimpleandcleanangularjsfirebaseexample.md
+c1.usingangularjsineclipsepart1thebasics.md
+c1.usingangularjsineclipsepart2addsomecontrol.md
+c1.usingangularjsineclipsepart3wireupabackend.md
+c1.usingangularjsineclipsepart4createcomponents.md
+c1.angularjscodeeditorusinguibootstrapandcodemirrordonewithoutusingjquery.md
+
+C2..Chapter_KarmaJS.md
+
+c2.asmallangularjsjasminetestexecutedbykarmajs.md
+c2.creatinganeclipseuitorunangularjse2etestsusingkarma.md
+c2.runningkarmajssangularjsexampleteste2eangularscenarioonchrome.md
+
+C3..Chapter_Firebase.md
+
+c3.firstpocofsendingteammentorsserversiderequesturlstofirebaseandseeingitinrealtimeinanangularjspage.md
+c3.tryingoutfirebasebetahostingsolutionandgoodexampleoffirebasesecurityrules.md
+
+C4..Chapter_Misc_Tricks.md
+
+c4.programaticallychanginganangularjsscopevariableandaddingfirebuglitetoanangularjsapp.md
+c4.hubspotcurrentjscodeincludesjqueryonit.md
+c4.submittingtmuserstohubspotviatbotinterfaceusingangularjs.md
+
+C5..Chapter_IDEs.md
+
+c5.eclipsegroovyreplscripttosyncabrowserwithfilechangeswithrecursivefoldersearchviajavaswatchservice.md
+c5.eclipsegroovyscripttoremovethebusyimagefromthewebbrowsereditor.md
+c5.usingchromeinsideanativevisualstudiopaneusingwindowhandlehijacking.md
+c5.usingwebstormwithchromeandchromedrivertoviewkarmajsexecutionresults.md
+c5.whenthebestwaytoautomatechromeistousechromewithexamplesongooglesearchdirectangularjsscopemanipulationandchromedriverjavascriptaccess.md
+c5.addingkarmajssupporttowebstormtoautomagicallyruntestsonfilechangesandtestuiwithsublimetextchromeandcmdexe.md
+
+C6..Chapter_Troubleshooting.md
+
+c6.karmajsangularjsscenariotestrunnerexecutionvariationsinie789and10whenusingangularjs.md
+c6.ifangularjsdoesntworkonyouro2platformiescriptsthefixistochangebrowsercompatibilitymode.md
+c6.debuggingaweirdcaseofmissingmoduleinangularjsandkarmajs.md
+
+
+{backmatter}
+C7..Appendices.md
+c.Appendix_PostsDetails.md
+
