@@ -4,6 +4,7 @@ This is the current table of contents of the book. If you have any ideas or suge
 
 **[Introduction](/manuscript/C0_Introduction-.md)** 
 
+* [AngularJS Books](manuscript/C0_Introduction-AngularJS_Books.md)
 * [ChangeLog](/manuscript/C0_Introduction-ChangeLog.md)
 
 **[Chapter 1 - Using AngularJS](/manuscript/C1_Using_AngularJS-.md)** 
