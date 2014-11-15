@@ -8,11 +8,12 @@ The book is still under development, so if you spot any issues or have recommend
 ## Book Sections
 
 * [Introduction](/manuscript/C0_Introduction-.md)
-* [Using KarmaJS](/manuscript/C2_KarmaJS-.md)
-* [Using Firebase](/manuscript/C3_Firebase-.md)
-* [Misc Tricks](/manuscript/C4_Misc_Tricks-.md)
-* [IDEs](/manuscript/C5_IDEs-.md)
-* [Troubleshooting](/manuscript/C6_Troubleshooting-.md)
+* [Chapter 1 - Using AngularJS](/manuscript/C1_Using_AngularJS-.md)
+* [Chapter 2 - Using KarmaJS](/manuscript/C2_KarmaJS-.md)
+* [Chapter 3 - Using Firebase](/manuscript/C3_Firebase-.md)
+* [Chapter 4 - Misc Tricks](/manuscript/C4_Misc_Tricks-.md)
+* [Chapter 5 - IDEs](/manuscript/C5_IDEs-.md)
+* [Chapter 6 - Troubleshooting](/manuscript/C6_Troubleshooting-.md)
 * [Appendices](/manuscript/C7_Appendices-.md)
 
 See [Table of Contents](/Table_of_contents.md) for the full list of chapters
