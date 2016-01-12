@@ -9,7 +9,7 @@
 Using-AngularJS.md
 
 1.Really_Simple_and_Clean_angularJS_Firebase_Example.md
-#C1_Using_AngularJS-usingangularjsineclipsepart1thebasics.md
+2.Using-AngularJS-in-Eclipse-Part-1-The-Basics.md
 #C1_Using_AngularJS-usingangularjsineclipsepart2addsomecontrol.md
 #C1_Using_AngularJS-usingangularjsineclipsepart3wireupabackend.md
 #C1_Using_AngularJS-usingangularjsineclipsepart4createcomponents.md
