@@ -7,4 +7,4 @@ This section has the following chapters:
 * Using AngularJS in Eclipse, Part 2) Add Some Control
 * Using AngularJS in Eclipse, Part 3) Wire up a Backend
 * Using AngularJS in Eclipse, Part 4) Create Components
-* [AngularJS code editor using UI-Bootstrap and CodeMirror (done without using jQuery)](/manuscript/C1_Using_AngularJS-angularjscodeeditorusinguibootstrapandcodemirrordonewithoutusingjquery.md)
+* AngularJS code editor using UI-Bootstrap and CodeMirror (done without using jQuery)
