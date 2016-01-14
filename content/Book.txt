@@ -6,14 +6,14 @@
 
 {mainmatter}
 
-Using-AngularJS.md
+#Using-AngularJS.md
 
 #1.Really_Simple_and_Clean_angularJS_Firebase_Example.md
 #2.Using-AngularJS-in-Eclipse-Part-1-The-Basics.md
 #3.Using-AngularJS-in-Eclipse-Part-2-Add-Some-Control.md
 #4.Using-AngularJS-in-Eclipse-Part-3-Wire-up-a-Backend.md
 #5.Using-AngularJS-in-Eclipse-Part-4-Create-Components.md
-6.AngularJS-code-editor-using-UI-Bootstrap-and-CodeMirror.md
+#6.AngularJS-code-editor-using-UI-Bootstrap-and-CodeMirror.md
 
 Karma-JS.md
 
