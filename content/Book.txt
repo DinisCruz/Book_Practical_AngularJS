@@ -2,7 +2,8 @@
 
 #1.Leanpub-book-originally-based-on-Blog-posts.md
 #2.Change-log.md
-#3.AngularJS-references.md
+3.Posts-Dates.md
+4.AngularJS-references.md
 
 {mainmatter}
 
@@ -18,36 +19,33 @@
 Karma-JS.md
 
 #1.A-small-AngularJS-Jasmine-test-executed-by-KarmaJS.md
-2.Creating-an-Eclipse-UI-to-run-AngularJS-e2e-tests-using-Karma.md
-#C2_KarmaJS-runningkarmajssangularjsexampleteste2eangularscenarioonchrome.md
+#2.Creating-an-Eclipse-UI-to-run-AngularJS-e2e-tests-using-Karma.md
+3.Running-KarmaJS-AngularJS-example-test-e2e-angular-scenario.md
 
-#C3_Firebase-.md
+Firebase.md
 
-#C3_Firebase-firstpocofsendingteammentorsserversiderequesturlstofirebaseandseeingitinrealtimeinanangularjspage.md
-#C3_Firebase-tryingoutfirebasebetahostingsolutionandgoodexampleoffirebasesecurityrules.md
+1.First-PoC-of-sending-server-side-request-URLS-to-Firebase.md
+2.Trying-out-Firebase-(Beta)-hosting-solution.md
 
-#C4_Misc_Tricks-.md
+Misc-Tricks.md
 
-#C4_Misc_Tricks-programaticallychanginganangularjsscopevariableandaddingfirebuglitetoanangularjsapp.md
-#C4_Misc_Tricks-hubspotcurrentjscodeincludesjqueryonit.md
-#C4_Misc_Tricks-submittingtmuserstohubspotviatbotinterfaceusingangularjs.md
+1.Programatically-changing-an-AngularJS-scope-variable.md
+2.Hubspot-current-js-code-includes-JQuery-on-it.md
+3.Submitting-TM-users-to-HubSpot-via-TBOT-interface.md
 
-#C5_IDEs-.md
+IDEs.md
 
-#C5_IDEs-eclipsegroovyreplscripttosyncabrowserwithfilechangeswithrecursivefoldersearchviajavaswatchservice.md
-#C5_IDEs-eclipsegroovyscripttoremovethebusyimagefromthewebbrowsereditor.md
-#C5_IDEs-usingchromeinsideanativevisualstudiopaneusingwindowhandlehijacking.md
-#C5_IDEs-usingwebstormwithchromeandchromedrivertoviewkarmajsexecutionresults.md
-#C5_IDEs-whenthebestwaytoautomatechromeistousechromewithexamplesongooglesearchdirectangularjsscopemanipulationandchromedriverjavascriptaccess.md
-#C5_IDEs-addingkarmajssupporttowebstormtoautomagicallyruntestsonfilechangesandtestuiwithsublimetextchromeandcmdexe.md
+1.Eclipse-Groovy-REPL script-to-sync-a-Browser-with-file-changes.md
+2.Eclipse-Groovy-script-to-remove-the-busy-image-from-the-WebBrowser-Editor.md
+3.Using-Chrome-inside-a-native-VisualStudio-pane.md
+4.Using-WebStorm-with-Chrome-and-ChromeDriver.md
+5.When-the-best-way-to-automate-Chrome-is-to-use-Chrome.md
+6.Adding-KarmaJS-support-to-WebStorm-to-automagically-run-tests-on-file-changes.md
 
-#C6_Troubleshooting-.md
+Troubleshooting.md
 
-#C6_Troubleshooting-karmajsangularjsscenariotestrunnerexecutionvariationsinie789and10whenusingangularjs.md
-#C6_Troubleshooting-ifangularjsdoesntworkonyouro2platformiescriptsthefixistochangebrowsercompatibilitymode.md
-#C6_Troubleshooting-debuggingaweirdcaseofmissingmoduleinangularjsandkarmajs.md
+1.KarmaJS-AngularJS-Scenario-Test-Runner-execution-variations-in-IE
+2.If-AngularJS-doesnt-work-on-your-O2-Platform-IE-scripts.md
+3.Debugging-a-weird-case-of-missing-module-in-AngularJS-and-KarmaJS.md
 
 {backmatter}
-
-#C7_Appendices.md
-#C7_Appendices-Appendix_PostsDetails.md
