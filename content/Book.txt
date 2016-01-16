@@ -25,27 +25,27 @@ Karma-JS.md
 Firebase.md
 
 1.First-PoC-of-sending-server-side-request-URLS-to-Firebase.md
-2.Trying-out-Firebase-(Beta)-hosting-solution.md
+#2.Trying-out-Firebase-(Beta)-hosting-solution.md
 
-Misc-Tricks.md
+#Misc-Tricks.md
 
-1.Programatically-changing-an-AngularJS-scope-variable.md
-2.Hubspot-current-js-code-includes-JQuery-on-it.md
-3.Submitting-TM-users-to-HubSpot-via-TBOT-interface.md
+#1.Programatically-changing-an-AngularJS-scope-variable.md
+#2.Hubspot-current-js-code-includes-JQuery-on-it.md
+#3.Submitting-TM-users-to-HubSpot-via-TBOT-interface.md
 
-IDEs.md
+#IDEs.md
 
-1.Eclipse-Groovy-REPL script-to-sync-a-Browser-with-file-changes.md
-2.Eclipse-Groovy-script-to-remove-the-busy-image-from-the-WebBrowser-Editor.md
-3.Using-Chrome-inside-a-native-VisualStudio-pane.md
-4.Using-WebStorm-with-Chrome-and-ChromeDriver.md
-5.When-the-best-way-to-automate-Chrome-is-to-use-Chrome.md
-6.Adding-KarmaJS-support-to-WebStorm-to-automagically-run-tests-on-file-changes.md
+#1.Eclipse-Groovy-REPL script-to-sync-a-Browser-with-file-changes.md
+#2.Eclipse-Groovy-script-to-remove-the-busy-image-from-the-WebBrowser-Editor.md
+#3.Using-Chrome-inside-a-native-VisualStudio-pane.md
+#4.Using-WebStorm-with-Chrome-and-ChromeDriver.md
+#5.When-the-best-way-to-automate-Chrome-is-to-use-Chrome.md
+#6.Adding-KarmaJS-support-to-WebStorm-to-automagically-run-tests-on-file-changes.md
 
-Troubleshooting.md
+#Troubleshooting.md
 
-1.KarmaJS-AngularJS-Scenario-Test-Runner-execution-variations-in-IE
-2.If-AngularJS-doesnt-work-on-your-O2-Platform-IE-scripts.md
-3.Debugging-a-weird-case-of-missing-module-in-AngularJS-and-KarmaJS.md
+#1.KarmaJS-AngularJS-Scenario-Test-Runner-execution-variations-in-IE
+#2.If-AngularJS-doesnt-work-on-your-O2-Platform-IE-scripts.md
+#3.Debugging-a-weird-case-of-missing-module-in-AngularJS-and-KarmaJS.md
 
 {backmatter}
