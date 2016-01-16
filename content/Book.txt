@@ -44,7 +44,7 @@ IDEs.md
 
 Troubleshooting.md
 
-1.KarmaJS-AngularJS-Scenario-Test-Runner-execution-variations-in-IE
+1.KarmaJS-AngularJS-Scenario-Test-Runner-execution-variations-in-IE.md
 2.If-AngularJS-doesnt-work-on-your-O2-Platform-IE-scripts.md
 3.Debugging-a-weird-case-of-missing-module-in-AngularJS-and-KarmaJS.md
 
