@@ -1,45 +1,45 @@
 {frontmatter}
 
-#1.Leanpub-book-originally-based-on-Blog-posts.md
-#2.Change-log.md
-#3.Posts-Dates.md
-#4.AngularJS-references.md
+1.Leanpub-book-originally-based-on-Blog-posts.md
+2.Change-log.md
+3.Posts-Dates.md
+4.AngularJS-references.md
 
 {mainmatter}
 
 #Using-AngularJS.md
 
-#1.Really_Simple_and_Clean_angularJS_Firebase_Example.md
-#2.Using-AngularJS-in-Eclipse-Part-1-The-Basics.md
-#3.Using-AngularJS-in-Eclipse-Part-2-Add-Some-Control.md
-#4.Using-AngularJS-in-Eclipse-Part-3-Wire-up-a-Backend.md
-#5.Using-AngularJS-in-Eclipse-Part-4-Create-Components.md
-#6.AngularJS-code-editor-using-UI-Bootstrap-and-CodeMirror.md
+1.Really_Simple_and_Clean_angularJS_Firebase_Example.md
+2.Using-AngularJS-in-Eclipse-Part-1-The-Basics.md
+3.Using-AngularJS-in-Eclipse-Part-2-Add-Some-Control.md
+4.Using-AngularJS-in-Eclipse-Part-3-Wire-up-a-Backend.md
+5.Using-AngularJS-in-Eclipse-Part-4-Create-Components.md
+6.AngularJS-code-editor-using-UI-Bootstrap-and-CodeMirror.md
 
-#Karma-JS.md
+Karma-JS.md
 
-#1.A-small-AngularJS-Jasmine-test-executed-by-KarmaJS.md
-#2.Creating-an-Eclipse-UI-to-run-AngularJS-e2e-tests-using-Karma.md
-#3.Running-KarmaJS-AngularJS-example-test-e2e-angular-scenario.md
+1.A-small-AngularJS-Jasmine-test-executed-by-KarmaJS.md
+2.Creating-an-Eclipse-UI-to-run-AngularJS-e2e-tests-using-Karma.md
+3.Running-KarmaJS-AngularJS-example-test-e2e-angular-scenario.md
 
-#Firebase.md
+Firebase.md
 
-#1.First-PoC-of-sending-server-side-request-URLS-to-Firebase.md
-#2.Trying-out-Firebase-(Beta)-hosting-solution.md
+1.First-PoC-of-sending-server-side-request-URLS-to-Firebase.md
+2.Trying-out-Firebase-(Beta)-hosting-solution.md
 
-#Misc-Tricks.md
+Misc-Tricks.md
 
-#1.Programatically-changing-an-AngularJS-scope-variable.md
-#2.Hubspot-current-js-code-includes-JQuery-on-it.md
-#3.Submitting-TM-users-to-HubSpot-via-TBOT-interface.md
+1.Programatically-changing-an-AngularJS-scope-variable.md
+2.Hubspot-current-js-code-includes-JQuery-on-it.md
+3.Submitting-TM-users-to-HubSpot-via-TBOT-interface.md
 
 IDEs.md
 
-#1.Eclipse-Groovy-REPL script-to-sync-a-Browser-with-file-changes.md
-#2.Eclipse-Groovy-script-to-remove-the-busy-image-from-the-WebBrowser-Editor.md
-#3.Using-Chrome-inside-a-native-VisualStudio-pane.md
-#4.Using-WebStorm-with-Chrome-and-ChromeDriver.md
-#5.When-the-best-way-to-automate-Chrome-is-to-use-Chrome.md
+1.Eclipse-Groovy-REPL script-to-sync-a-Browser-with-file-changes.md
+2.Eclipse-Groovy-script-to-remove-the-busy-image-from-the-WebBrowser-Editor.md
+3.Using-Chrome-inside-a-native-VisualStudio-pane.md
+4.Using-WebStorm-with-Chrome-and-ChromeDriver.md
+5.When-the-best-way-to-automate-Chrome-is-to-use-Chrome.md
 6.Adding-KarmaJS-support-to-WebStorm-to-automagically-run-tests-on-file-changes.md
 
 Troubleshooting.md
