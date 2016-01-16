@@ -22,15 +22,15 @@
 #2.Creating-an-Eclipse-UI-to-run-AngularJS-e2e-tests-using-Karma.md
 #3.Running-KarmaJS-AngularJS-example-test-e2e-angular-scenario.md
 
-Firebase.md
+#Firebase.md
 
 #1.First-PoC-of-sending-server-side-request-URLS-to-Firebase.md
-2.Trying-out-Firebase-(Beta)-hosting-solution.md
+#2.Trying-out-Firebase-(Beta)-hosting-solution.md
 
-#Misc-Tricks.md
+Misc-Tricks.md
 
-#1.Programatically-changing-an-AngularJS-scope-variable.md
-#2.Hubspot-current-js-code-includes-JQuery-on-it.md
+1.Programatically-changing-an-AngularJS-scope-variable.md
+2.Hubspot-current-js-code-includes-JQuery-on-it.md
 #3.Submitting-TM-users-to-HubSpot-via-TBOT-interface.md
 
 #IDEs.md
