@@ -2,8 +2,8 @@
 
 #1.Leanpub-book-originally-based-on-Blog-posts.md
 #2.Change-log.md
-3.Posts-Dates.md
-4.AngularJS-references.md
+#3.Posts-Dates.md
+#4.AngularJS-references.md
 
 {mainmatter}
 
@@ -16,7 +16,7 @@
 #5.Using-AngularJS-in-Eclipse-Part-4-Create-Components.md
 #6.AngularJS-code-editor-using-UI-Bootstrap-and-CodeMirror.md
 
-Karma-JS.md
+#Karma-JS.md
 
 #1.A-small-AngularJS-Jasmine-test-executed-by-KarmaJS.md
 #2.Creating-an-Eclipse-UI-to-run-AngularJS-e2e-tests-using-Karma.md
@@ -24,8 +24,8 @@ Karma-JS.md
 
 Firebase.md
 
-1.First-PoC-of-sending-server-side-request-URLS-to-Firebase.md
-#2.Trying-out-Firebase-(Beta)-hosting-solution.md
+#1.First-PoC-of-sending-server-side-request-URLS-to-Firebase.md
+2.Trying-out-Firebase-(Beta)-hosting-solution.md
 
 #Misc-Tricks.md
 
