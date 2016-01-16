@@ -20,7 +20,7 @@ Karma-JS.md
 
 #1.A-small-AngularJS-Jasmine-test-executed-by-KarmaJS.md
 #2.Creating-an-Eclipse-UI-to-run-AngularJS-e2e-tests-using-Karma.md
-3.Running-KarmaJS-AngularJS-example-test-e2e-angular-scenario.md
+#3.Running-KarmaJS-AngularJS-example-test-e2e-angular-scenario.md
 
 Firebase.md
 
