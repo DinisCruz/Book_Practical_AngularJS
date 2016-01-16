@@ -27,19 +27,19 @@
 #1.First-PoC-of-sending-server-side-request-URLS-to-Firebase.md
 #2.Trying-out-Firebase-(Beta)-hosting-solution.md
 
-Misc-Tricks.md
+#Misc-Tricks.md
 
 #1.Programatically-changing-an-AngularJS-scope-variable.md
 #2.Hubspot-current-js-code-includes-JQuery-on-it.md
-3.Submitting-TM-users-to-HubSpot-via-TBOT-interface.md
+#3.Submitting-TM-users-to-HubSpot-via-TBOT-interface.md
 
 #IDEs.md
 
 #1.Eclipse-Groovy-REPL script-to-sync-a-Browser-with-file-changes.md
-2.Eclipse-Groovy-script-to-remove-the-busy-image-from-the-WebBrowser-Editor.md
-#3.Using-Chrome-inside-a-native-VisualStudio-pane.md
-#4.Using-WebStorm-with-Chrome-and-ChromeDriver.md
-#5.When-the-best-way-to-automate-Chrome-is-to-use-Chrome.md
+#2.Eclipse-Groovy-script-to-remove-the-busy-image-from-the-WebBrowser-Editor.md
+3.Using-Chrome-inside-a-native-VisualStudio-pane.md
+4.Using-WebStorm-with-Chrome-and-ChromeDriver.md
+5.When-the-best-way-to-automate-Chrome-is-to-use-Chrome.md
 #6.Adding-KarmaJS-support-to-WebStorm-to-automagically-run-tests-on-file-changes.md
 
 #Troubleshooting.md
