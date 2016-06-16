@@ -1,4 +1,4 @@
-### Why Angular 1.5.2
+### Why Angular 1x
 
 When I started this project I had the opportunity to review the current alternatives (as of 2016) to Angular 1.x
 
