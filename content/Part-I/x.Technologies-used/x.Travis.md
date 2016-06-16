@@ -7,3 +7,7 @@
  - push commit to forks (in one case with an extra commit)
 
  {show .travis.yml file here}
+
+#### Travis badges
+
+- nice way to keep an eye on the status of the builds
