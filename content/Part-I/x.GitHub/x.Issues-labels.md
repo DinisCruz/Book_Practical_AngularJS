@@ -1,1 +1,1 @@
-### Issue - Labels
+### Issues - Labels
