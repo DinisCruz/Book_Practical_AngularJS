@@ -11,3 +11,5 @@ Added here while offline (or non-distract-mode)
 
 - Create pool to ask which Part II chapter to keep
   - Assuming Part I takes a good size and it's more popular
+
+- add test to build engine to check for duplicate file names (which would be a problem when the content is moved into the manifest folder)

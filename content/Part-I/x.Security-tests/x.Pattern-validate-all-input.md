@@ -1,1 +1,1 @@
-### 
+### Pattern - Validate all input

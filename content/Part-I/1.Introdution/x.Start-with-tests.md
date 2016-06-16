@@ -15,6 +15,15 @@
 #### Managers need to write tests
 - Since they have the technical ability to do so (and it is a waste of their skills if they only 'manage')
 
+#### Abusing the (unit) Test concept
+
+For me the 'unit' is whatever being tests
+
+My definition is if it can be executed with {link to Unit Test Frameworks at Wikipedia}, then is an Unit Test.
+
+I've started to use _"(unit) Test"_ has a way to refer to Unit Tests (as a way to indicate that the 'unit' is different)
+
+
 
 
 

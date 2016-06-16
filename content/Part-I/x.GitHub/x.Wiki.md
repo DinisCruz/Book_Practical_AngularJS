@@ -1,1 +1,1 @@
-### GitHub Issues
+### Wiki
