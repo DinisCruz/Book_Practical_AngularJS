@@ -11,3 +11,10 @@
 #### Travis badges
 
 - nice way to keep an eye on the status of the builds
+
+
+#### travis reacting to an GitHub commit
+
+![](images/travis-webhook-1.png)
+
+![](images/travis-webhook-2.png)
