@@ -1,6 +1,8 @@
 ### Code - UI - Angular
 
-This is the angular pa
+This is the submodule probject that contains the AngularJS based UI
+
+There are no server side generate pages
 
 **/**
 
@@ -21,7 +23,7 @@ This is the angular pa
 
 **.travis.yml**
 
-```
+```yml
 language: node_js
 
 node_js:
@@ -38,7 +40,7 @@ before_script:
 
 **bower.json**
 
-```
+```json
 {
   "name": "maturity-models-ui",
   "description": "Maturity Models UI",
@@ -63,7 +65,7 @@ before_script:
 
 **gulpfile.coffee**
 
-```
+```coffee
 gulp          = require 'gulp'
 coffee        = require 'gulp-coffee'
 concat        = require 'gulp-concat'
@@ -113,7 +115,7 @@ gulp.task 'default', ['compile-coffee','compile-pug', 'templateCache', 'concat-c
 
 **karma.config.js**
 
-```
+```js
 module.exports = function(config) {
     config.set({
         basePath: '',
@@ -148,7 +150,7 @@ module.exports = function(config) {
 
 **package.json**
 
-```
+```json
 {
   "name": "maturity-models-ui",
   "version": "0.0.1",
@@ -193,7 +195,7 @@ module.exports = function(config) {
 
 **wallaby.coffee**
 
-```
+```coffee
 module.exports = (wallaby)->
   #console.log wallaby
 
@@ -229,7 +231,7 @@ module.exports = (wallaby)->
 
 **wallaby.js**
 
-```
+```js
 require('coffee-script/register')
 
 module.exports = require('./wallaby.angular.coffee')
