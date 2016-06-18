@@ -5,7 +5,8 @@ node_js:
 
 env:
   global:
-    - secure: "ISzpFEy7c5rxQoA/wrVCIfVwDvGrzFG1Fx+dzUIUt2q8HyPOuOuwHt1eVfH94/Zn/hEPuaPUaoFxpYPs3xpZCsl16bFAJLeuWDguYCw2DzgsVHVhXSSELtFqtg/Hd5Coq51s1Wj74Ril7o/sJ2efkaQC3BaowZZxAImpJR9Iyj4="
+    - secure: "TVpxlqaEAEj0QwDv3xXPlYwfV5S6ewoIgVeuyat23BQtrHmdyBLhaJ2xprg2KQTSAKWT5TfIM2z0gUjynfYMO4Ybxdns/3NXgZ6VrJKxUAbp5q5eWkR5qjgK92SimVLoDZ5Z+LCkQxoaNBmRSK6h48KHEgH3IM4nfGJXCjzLdKM="
+
 
 
 before_script:
@@ -28,7 +29,10 @@ script:
   - git config --global user.name "Travis Bot"
 
   - cd Book_Practical_AngularJS_Build
-  - git remote set-url origin https://@github.com/DinisCruz-Dev/Book_Practical_AngularJS_Build.git
   - git add -A
   - git commit -m 'commiting manuscript changes'
+
+  - git remote remove origin
+  - git remote add origin https://@github.com/DinisCruz-Dev/Book_Practical_AngularJS_Build.git
+
   - git push origin master
