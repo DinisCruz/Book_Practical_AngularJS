@@ -28,7 +28,7 @@ script:
   - git config --global user.name "Travis Bot"
 
   - cd Book_Practical_AngularJS_Build
-  - git remote set-url origin https://DinisCruz-Dev:$git_pwd@github.com/DinisCruz-Dev/Book_Practical_AngularJS_Build.git
+  - git remote set-url origin https://@github.com/DinisCruz-Dev/Book_Practical_AngularJS_Build.git
   - git add -A
   - git commit -m 'commiting manuscript changes'
   - git push origin master
