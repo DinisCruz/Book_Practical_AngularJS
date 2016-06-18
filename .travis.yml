@@ -11,6 +11,7 @@ before_script:
   - cd leanpub-book-site
   - ./set-up.sh
   - ls -la
+  - npm install
   - ./bin/Create-Book.coffee
   - cd book
   - ls -la
