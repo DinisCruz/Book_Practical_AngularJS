@@ -33,6 +33,6 @@ script:
   - git commit -m 'commiting manuscript changes'
 
   - git remote remove origin
-  - git remote add origin https://@github.com/DinisCruz-Dev/Book_Practical_AngularJS_Build.git
+  - git remote add origin https://DinisCruz-Dev:$git_pwd@github.com/DinisCruz-Dev/Book_Practical_AngularJS_Build.git
 
-  - git push origin master
+  - git push --quiet origin master
