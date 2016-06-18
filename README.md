@@ -32,5 +32,5 @@ If you can, please buy the book since it will help with production, design, edit
 
 Leanpub provide a nice shooping card solution which allows you to chose which price to pay: [Buy Practical AngularJS book](https://leanpub.com/Practical_AngularJS/packages/book/purchases/new)
 
-[![](manuscript/images/Buy_Practical_AngularJS.png)](https://leanpub.com/Practical_AngularJS/packages/book/purchases/new)
+[![](Buy_Practical_AngularJS.png)](https://leanpub.com/Practical_AngularJS/packages/book/purchases/new)
 
