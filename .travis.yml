@@ -2,3 +2,9 @@ language: node_js
 
 node_js:
   - "5"
+
+before_script:
+  - cd ..
+  - pwd
+  - ls -la
+  - git clone https://github.com/o2platform/leanpub-book-site.git
