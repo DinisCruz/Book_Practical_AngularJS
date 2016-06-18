@@ -18,3 +18,7 @@
 ![](images/travis-webhook-1.png)
 
 ![](images/travis-webhook-2.png)
+
+![image](https://cloud.githubusercontent.com/assets/656739/16161483/9aabcabc-34c5-11e6-87fc-b8f7b98b55df.png)
+
+![image](https://cloud.githubusercontent.com/assets/656739/16161495/aac7f9d4-34c5-11e6-8720-762167f70451.png)
