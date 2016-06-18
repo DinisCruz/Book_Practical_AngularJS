@@ -6,5 +6,11 @@ node_js:
 before_script:
   - cd ..
   - pwd
-  - ls -la
   - git clone https://github.com/o2platform/leanpub-book-site.git
+  - ls -la
+  - cd leanpub-book-site
+  - ./set-up.sh
+  - ls -la
+  - ./bin/Create-Book.coffee
+  - cd book
+  - ls -la
