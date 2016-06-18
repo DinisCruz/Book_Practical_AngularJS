@@ -3,6 +3,10 @@ language: node_js
 node_js:
   - "5"
 
+env:
+  global:
+      - secure: "pZ4LxxhVcpG0UwfPvGw237YXDCZl1kbW6Ke1EZgkzjDV4f7VYPGRd4rpomgp0+ze/pB56PfY6urk5yHAEcEadwApeE121cHngsz+LXyEarUosQX+wlkAweRifGMsm+I1DOpMbUax2M93XGR/uflIzEmDJwxaI4QQtq12PjtSSOH8V6LHIbkIVbK20DVkGSwWv//eervt4xRyoua3GxctgFF+XwZvKPs/b3VyUMkR+VjpphYvrNfLa2zPIR5JgXK1420C3vXnB17AiFjnKWSuAmeoJJ2ZY3otxJjMaJcB3UhjpFSwEVr2F6cNNkmjT0gcZoWFLHGFPePmB/6Edjs0tLOx6xFmnkGugtDu5vMGGEomPR5dusE1k22HdfvWqNmGv+7GK/7nWDebL0Pl5mFTV+yKGNAJiKRMQFlSdAzE5X8buh0aEfpepNtBPtrxrLfm3wmWF8BuEh+Q96LlXOJkwZDrJ4ditV/zq/y9BJyiHmGJ8QjbSYgynvGp9V+4bxM6U/grV1sEb9fPzc0DrwB3Uk9qcSsjduOm/EbI0XSsCnSYD36YHxoUoTMTxfOWOR7YtVHtYm/sgfYL//s7kXvcX2zwR67kZc+5E3Qflir1ykI4emko1jCS9XRYVOW57AzeRvRY1QJBViAE+8ztOaMBfh2G15qoFKrAeX+qGWramhQ="
+
 before_script:
   - cd ..
   - pwd
@@ -24,6 +28,7 @@ after_script:
   - git config --global user.name "Travis Bot"
 
   - cd Book_Practical_AngularJS_Build
+  - git remote -set-url origin https://DinisCruz-Dev:$git_pwd@github.com/DinisCruz-Dev/Book_Practical_AngularJS_Build.git
   - git add -A
   - git commit -m 'commiting manuscript changes'
   - git push origin master
