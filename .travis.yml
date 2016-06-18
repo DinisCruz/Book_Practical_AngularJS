@@ -12,6 +12,18 @@ before_script:
   - ./set-up.sh
   - ls -la
   - npm install
+
+script:
   - ./bin/Create-Book.coffee
   - cd book
   - ls -la
+
+after_script:
+  - echo ">>>>> Updating Build repo <<<<<"
+  - git config --global user.email "bot@travis.com"
+  - git config --global user.name "Travis Bot"
+
+  - cd Book_Practical_AngularJS_Build
+  - git add -A
+  - git commit -m 'commiting manuscript changes'
+  - git push origin master
