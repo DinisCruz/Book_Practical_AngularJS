@@ -19,6 +19,6 @@
 
 ![](images/travis-webhook-2.png)
 
-![](https://cloud.githubusercontent.com/assets/656739/16161483/9aabcabc-34c5-11e6-87fc-b8f7b98b55df.png)
+![](images/9aabcabc-34c5-11e6-87fc-b8f7b98b55df.png)
 
-![](https://cloud.githubusercontent.com/assets/656739/16161495/aac7f9d4-34c5-11e6-8720-762167f70451.png)
+![](images/aac7f9d4-34c5-11e6-8720-762167f70451.png)
