@@ -10,3 +10,7 @@
 #### AngularJS directives, the source of XSS vulns
 
   - it is in directives where I've seen XSS vulns in Angular Apps
+
+#### Other ways to create XSS in Angular
+
+- see http://blog.portswigger.net/2016/01/xss-without-html-client-side-template.html research
