@@ -9,20 +9,20 @@ Browser automation is done using [Electrium](https://github.com/o2platform/elect
 
 **/**
 
-![image](https://cloud.githubusercontent.com/assets/656739/16147386/b752d64c-347a-11e6-9ff2-eaa36db19de2.png)
+![](images/b752d64c-347a-11e6-9ff2-eaa36db19de2.png)
 
 
 **/src**
 
-![image](https://cloud.githubusercontent.com/assets/656739/16147393/c0a34f1a-347a-11e6-8c50-9d5a9e50f989.png)
+![](images/c0a34f1a-347a-11e6-8c50-9d5a9e50f989.png)
 
 **/test**
 
-![image](https://cloud.githubusercontent.com/assets/656739/16147402/cc1ea916-347a-11e6-8839-b33d8476bbeb.png)
+![](images/cc1ea916-347a-11e6-8839-b33d8476bbeb.png)
 
 **/test-performance**
 
-![image](https://cloud.githubusercontent.com/assets/656739/16147409/d9f538ac-347a-11e6-970a-26066b2b7559.png)
+![](images/d9f538ac-347a-11e6-970a-26066b2b7559.png)
 
 
 **.travis.yml**
