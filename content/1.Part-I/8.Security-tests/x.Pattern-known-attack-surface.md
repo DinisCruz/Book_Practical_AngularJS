@@ -5,7 +5,7 @@
 
 - add QA tests that use this list to load all pages
 
-**API - routes/list-raw **
+**API - routes/list-raw**
 
 ![](https://cloud.githubusercontent.com/assets/656739/16145765/4d9054bc-3472-11e6-9134-beb267a0f682.png)
 
