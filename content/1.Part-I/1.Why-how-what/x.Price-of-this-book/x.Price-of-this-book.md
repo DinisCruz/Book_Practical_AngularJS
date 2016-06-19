@@ -15,14 +15,14 @@ An interesting angle, is that it is better to have 6k potential buyers (that hav
 
 For reference, as of 17 June 2016, this book had 6586 readers, with 149 paid readers and $638.75 royalty (note that Leanpub only takes about 20% of the price paid)
 
-![](https://cloud.githubusercontent.com/assets/656739/16145372/1fe9c7de-3470-11e6-88d2-42200765ee2b.png)
+![](images/1fe9c7de-3470-11e6-88d2-42200765ee2b.png)
 
 
 #### Adding paid version which included Printed book
 
 I really like printed books (they are a better technology to read books), so I recently added an experiment to also sell them on the Leanpub website.
 
-![](https://cloud.githubusercontent.com/assets/656739/16146444/f48672b2-3475-11e6-96c7-01b11303128d.png)
+![](images/f48672b2-3475-11e6-96c7-01b11303128d.png)
 
 
 At the moment I will send the book directly to the buyer, which will need revising if there are too many buyers (this would be a nice problem to have)
