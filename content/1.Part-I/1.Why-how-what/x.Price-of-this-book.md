@@ -22,7 +22,7 @@ For reference, as of 17 June 2016, this book had 6586 readers, with 149 paid rea
 
 I really like printed books (they are a better technology to read books), so I recently added an experiment to also sell them on the Leanpub website.
 
-![image](https://cloud.githubusercontent.com/assets/656739/16146444/f48672b2-3475-11e6-96c7-01b11303128d.png)
+![](https://cloud.githubusercontent.com/assets/656739/16146444/f48672b2-3475-11e6-96c7-01b11303128d.png)
 
 
 At the moment I will send the book directly to the buyer, which will need revising if there are too many buyers (this would be a nice problem to have)

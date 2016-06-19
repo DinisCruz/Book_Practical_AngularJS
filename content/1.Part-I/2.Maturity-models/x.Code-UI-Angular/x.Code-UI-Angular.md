@@ -6,19 +6,19 @@ There are no server side generate pages
 
 **/**
 
-![image](https://cloud.githubusercontent.com/assets/656739/16145874/01fc8d30-3473-11e6-934a-31b926c2dc68.png)
+![](images/01fc8d30-3473-11e6-934a-31b926c2dc68.png)
 
 **/src**
 
-![image](https://cloud.githubusercontent.com/assets/656739/16145882/108d240e-3473-11e6-88e5-c3bc3fccd12b.png)
+![](images/108d240e-3473-11e6-88e5-c3bc3fccd12b.png)
 
 **/test**
 
-![image](https://cloud.githubusercontent.com/assets/656739/16146637/0e5a4898-3477-11e6-9a5d-ed7c2bb0f0c2.png)
+![](images/0e5a4898-3477-11e6-9a5d-ed7c2bb0f0c2.png)
 
 **/views**
 
-![image](https://cloud.githubusercontent.com/assets/656739/16146671/3ec16f52-3477-11e6-900e-0cc86762b472.png)
+![](images/3ec16f52-3477-11e6-900e-0cc86762b472.png)
 
 
 **.travis.yml**

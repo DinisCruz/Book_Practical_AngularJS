@@ -4,19 +4,19 @@ This is the node app which provides the web services consumed by the AngularJS f
 
 **/**
 
-![image](https://cloud.githubusercontent.com/assets/656739/16147070/20291408-3479-11e6-82af-6d5ab8c9d85d.png)
+![](images/20291408-3479-11e6-82af-6d5ab8c9d85d.png)
 
 **/data**
 
-![image](https://cloud.githubusercontent.com/assets/656739/16147106/4d017fb0-3479-11e6-9143-1e04d2b536c9.png)
+![](images/4d017fb0-3479-11e6-9143-1e04d2b536c9.png)
 
 **/src**
 
-![image](https://cloud.githubusercontent.com/assets/656739/16147096/3eb12c9e-3479-11e6-9816-e3a82dc3780d.png)
+![](images/3eb12c9e-3479-11e6-9816-e3a82dc3780d.png)
 
 **/test**
 
-![image](https://cloud.githubusercontent.com/assets/656739/16147118/602074a2-3479-11e6-814a-d7fce332debb.png)
+![](images/602074a2-3479-11e6-814a-d7fce332debb.png)
 
 
 **.travis.yml**
