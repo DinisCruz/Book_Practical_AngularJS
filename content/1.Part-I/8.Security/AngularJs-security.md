@@ -13,6 +13,7 @@ AngularJS provides a lot of protections by default (specially when compared with
 Here are the patterns I like to following when coding AngularJS Apps:
 
 - [know the attack surface](x.Pattern-known-the-attack-surface.md)
+- [Don't use server-side templates](x.pattern-dont-use-server-side-templates.md)
 - [don't care about security](x.Pattern-dont-care-about-security.md)
 - [don't use jquery](x.Pattern-dont-use-jquery.md)
 - [don't use strings](x.Pattern-dont-use-strings.md)
