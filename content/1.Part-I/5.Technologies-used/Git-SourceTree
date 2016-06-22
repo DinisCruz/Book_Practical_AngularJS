@@ -1,0 +1,9 @@
+### Git - SourceTree
+
+- Git UI (OSx desktop application)
+  - windows version doesn't work as well (in there I prefer TortoiseGit and gitk)
+- Normal Git workflows of commit, merge and rebase are easier
+- Always do a quick code review before commit
+- Commit often (as backup of code changes)
+   - never have long coding sessions without commits
+   - use branches for bigger changes (or experiments)
