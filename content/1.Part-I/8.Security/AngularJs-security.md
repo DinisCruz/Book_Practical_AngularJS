@@ -32,18 +32,19 @@ Here is what AngularJS says about [Security](https://docs.angularjs.org/misc/faq
 #### Online resources
 
   - **Presentations**    
-    - [An Abusive Relationship with AngularJS](http://www.slideshare.net/x00mario/an-abusive-relationship-with-angularjs), Dec 12, 2015 , Mario Heiderich,
-    - [ng-owasp: OWASP Top 10 for AngularJS Applications](http://www.slideshare.net/kevinhakanson/ng-owasp-ndc?qid=32cb7bc9-0c19-43bd-b225-a55dfcfb038) , Jun 19, 2015, Kevin Hakanson
-    - [Securing your AngularJS Application](http://www.slideshare.net/PhilippeDeRyck/securing-your-angularjs-application), Mar 17, 2016, Philippe De Ryck
-    - [AngularJS Security: defend your Single Page Application](http://www.slideshare.net/carlo.bonamico/angularjs-security-defend-your-single-page-application), Oct 22, 2015, Carlo Bonamico
-    - [Secure AngularJS](https://docs.google.com/presentation/d/1347saovLLeQ9y-WRElKXg26fHNGnbrUFhft_2m4rOwc/edit#slide=id.p), 5 Dec 13, Asaf David, @asafdav
+    - [An Abusive Relationship with AngularJS](http://www.slideshare.net/x00mario/an-abusive-relationship-with-angularjs), Dec 12 2015 , Mario Heiderich,
+    - [ng-owasp: OWASP Top 10 for AngularJS Applications](http://www.slideshare.net/kevinhakanson/ng-owasp-ndc?qid=32cb7bc9-0c19-43bd-b225-a55dfcfb038), Jun 2015, Kevin Hakanson
+    - [Securing your AngularJS Application](http://www.slideshare.net/PhilippeDeRyck/securing-your-angularjs-application), Mar 2016, Philippe De Ryck
+    - [AngularJS Security: defend your Single Page Application](http://www.slideshare.net/carlo.bonamico/angularjs-security-defend-your-single-page-application), Oct 2015, Carlo Bonamico
+    - [Secure AngularJS](https://docs.google.com/presentation/d/1347saovLLeQ9y-WRElKXg26fHNGnbrUFhft_2m4rOwc/edit#slide=id.p), Dec 13, Asaf David, @asafdav
+    - [JSMVCOMFG - To sternly look at JavaScript MVC and Templating Frameworks](http://www.slideshare.net/x00mario/jsmvcomfg-to-sternly-look-at-javascript-mvc-and-templating-frameworks), Dec 2013,  Mario Heiderich
 
   - **Videos**
-    - [Security with Angular JS](https://www.youtube.com/watch?v=18ifoT-Id54), 27 May 13, David Mosher
+    - [Security with Angular JS](https://www.youtube.com/watch?v=18ifoT-Id54), May 13, David Mosher
     - [An Abusive Relationship with AngularJS](https://vimeo.com/165951806), Mario Heiderich, btconfDUS 2016  
 
   - **Security Research**
-      - [mustache-security - AngularJS.wiki](https://code.google.com/archive/p/mustache-security/wikis/AngularJS.wiki)
+      - [mustache-security - AngularJS.wiki](https://code.google.com/archive/p/mustache-security/wikis/AngularJS.wiki) which had [this response](https://docs.google.com/document/d/1epha4VgFZVvauFJb2Tx_3NJlb3D91PjyZuO5YNAMX0M/edit#heading=h.yzj6cd9b563z)
 
   - **Articles** (note that these are done for 'usability')
     - [Techniques for authentication in AngularJS applications](https://medium.com/opinionated-angularjs/techniques-for-authentication-in-angularjs-applications-7bbf0346acec)
