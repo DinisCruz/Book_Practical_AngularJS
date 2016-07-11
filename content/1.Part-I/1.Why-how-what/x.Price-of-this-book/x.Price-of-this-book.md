@@ -29,7 +29,7 @@ At the moment I will send the book directly to the buyer, which will need revisi
 
 #### Moving to only paid version
 
-The new release of the book will include a website will all the content (in an better design/format then the website provided by Leanpub). All content is available for free at [GitHub](https://github.com/DinisCruz/Book_Practical_AngularJS) and I'm also exploring the idea to publish the released pdf into GitHub as releases.
+The new release of the book will include a website with all the content (in an better design/format then the website provided by Leanpub). All content is available for free at [GitHub](https://github.com/DinisCruz/Book_Practical_AngularJS) and I'm also exploring the idea to publish the released pdf into GitHub as releases.
 
 When this is in place, I'm thinking (for this book) to move away from the minimum zero price range, and maybe set it to $10, $20 or even $30 (nice thing of Leanpub is that I can experiment with it)
 
